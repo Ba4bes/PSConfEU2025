@@ -1,4 +1,4 @@
-# psconfeu2025.dev
+# psconfeu2025
 
 This repository contains materials for the PowerShell Conference EU 2025 follow along session "Coding in the Cloud: GitHub Codespaces meets PowerShell"
 
